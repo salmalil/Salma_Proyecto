@@ -1,6 +1,6 @@
 -- Project:   Instrumentacion
--- Generated: 12/03/2021 00:19:42
--- PSoC Creator  4.4
+-- Generated: 12/03/2021 02:42:02
+-- PSoC Creator  4.2
 
 ENTITY Instrumentacion IS
     PORT(

@@ -1,6 +1,6 @@
--- Project:   C:\Users\HP\Desktop\Salma_Aguayo\Microcontrolador\Instrumentacion.cydsn\Instrumentacion.cyprj
--- Generated: 12/03/2021 00:19:57
--- PSoC Creator  4.4
+-- Project:   C:\Users\salma\Salma_Proyecto\Salma_Aguayo\Microcontrolador\Instrumentacion.cydsn\Instrumentacion.cyprj
+-- Generated: 12/03/2021 02:42:05
+-- PSoC Creator  4.2
 
 ENTITY Instrumentacion IS
     PORT(
