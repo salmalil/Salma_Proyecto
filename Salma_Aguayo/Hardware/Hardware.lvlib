@@ -4,6 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Conection Hardware Msg.lvclass" Type="LVClass" URL="../../Hardware Messages/Conection Hardware Msg/Conection Hardware Msg.lvclass"/>
+		<Item Name="Obtain Mensaje from UI Msg.lvclass" Type="LVClass" URL="../../Hardware Messages/Obtain Mensaje from UI Msg/Obtain Mensaje from UI Msg.lvclass"/>
 		<Item Name="Obtain Servicio from paquetes Msg.lvclass" Type="LVClass" URL="../../Hardware Messages/Obtain Servicio from paquetes Msg/Obtain Servicio from paquetes Msg.lvclass"/>
 	</Item>
 	<Item Name="Hardware.lvclass" Type="LVClass" URL="../Hardware.lvclass"/>

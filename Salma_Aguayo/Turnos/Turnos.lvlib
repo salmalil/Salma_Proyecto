@@ -4,8 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Actualizar ListBox Msg.lvclass" Type="LVClass" URL="../../Turnos Messages/Actualizar ListBox Msg/Actualizar ListBox Msg.lvclass"/>
 		<Item Name="Delete listbox Msg.lvclass" Type="LVClass" URL="../../Turnos Messages/Delete listbox Msg/Delete listbox Msg.lvclass"/>
 		<Item Name="DRAW FP TURNOS IN UI Msg.lvclass" Type="LVClass" URL="../../Turnos Messages/DRAW FP TURNOS IN UI Msg/DRAW FP TURNOS IN UI Msg.lvclass"/>
+		<Item Name="HARDWARE Msg.lvclass" Type="LVClass" URL="../../Turnos Messages/HARDWARE Msg/HARDWARE Msg.lvclass"/>
 		<Item Name="Obtain table from UI Msg.lvclass" Type="LVClass" URL="../../Turnos Messages/Obtain table from UI Msg/Obtain table from UI Msg.lvclass"/>
 	</Item>
 	<Item Name="Turnos.lvclass" Type="LVClass" URL="../Turnos.lvclass"/>

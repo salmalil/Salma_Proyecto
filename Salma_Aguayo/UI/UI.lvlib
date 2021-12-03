@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Mensaje to Hardware Msg.lvclass" Type="LVClass" URL="../../UI Messages/Mensaje to Hardware Msg/Mensaje to Hardware Msg.lvclass"/>
 		<Item Name="New Credit and cambio to Dinero Msg.lvclass" Type="LVClass" URL="../../UI Messages/New Credit and cambio to Dinero Msg/New Credit and cambio to Dinero Msg.lvclass"/>
 		<Item Name="Obtain Credito from Dinero Msg.lvclass" Type="LVClass" URL="../../UI Messages/Obtain Credito from Dinero Msg/Obtain Credito from Dinero Msg.lvclass"/>
 		<Item Name="Obtain servicio from paquetes Msg.lvclass" Type="LVClass" URL="../../UI Messages/Obtain servicio from paquetes Msg/Obtain servicio from paquetes Msg.lvclass"/>
