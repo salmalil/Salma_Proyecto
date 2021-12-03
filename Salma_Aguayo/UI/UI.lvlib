@@ -7,6 +7,9 @@
 		<Item Name="New Credit and cambio to Dinero Msg.lvclass" Type="LVClass" URL="../../UI Messages/New Credit and cambio to Dinero Msg/New Credit and cambio to Dinero Msg.lvclass"/>
 		<Item Name="Obtain Credito from Dinero Msg.lvclass" Type="LVClass" URL="../../UI Messages/Obtain Credito from Dinero Msg/Obtain Credito from Dinero Msg.lvclass"/>
 		<Item Name="Obtain servicio from paquetes Msg.lvclass" Type="LVClass" URL="../../UI Messages/Obtain servicio from paquetes Msg/Obtain servicio from paquetes Msg.lvclass"/>
+		<Item Name="Obtain tabla estatus from Contabilidad Msg.lvclass" Type="LVClass" URL="../../UI Messages/Obtain tabla estatus from Contabilidad Msg/Obtain tabla estatus from Contabilidad Msg.lvclass"/>
+		<Item Name="Servicio to contabilidad Msg.lvclass" Type="LVClass" URL="../../UI Messages/Servicio to contabilidad Msg/Servicio to contabilidad Msg.lvclass"/>
+		<Item Name="Table to Turnos Msg.lvclass" Type="LVClass" URL="../../UI Messages/Table to Turnos Msg/Table to Turnos Msg.lvclass"/>
 		<Item Name="UI Mensaje to Paquetes Msg.lvclass" Type="LVClass" URL="../../UI Messages/UI Mensaje to Paquetes Msg/UI Mensaje to Paquetes Msg.lvclass"/>
 		<Item Name="Verificar Credito Msg.lvclass" Type="LVClass" URL="../../UI Messages/Verificar Credito Msg/Verificar Credito Msg.lvclass"/>
 	</Item>
